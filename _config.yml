@@ -50,22 +50,22 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  email: "someone@example.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+  instagram: sp3cter_se3ntinel
+  spotify: sonofawitch_0
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -94,15 +94,16 @@ rss-description: This website is a virtual proof that Max is awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
-  linkedin: true
+  instagram: true
+  linkedin: false
   vk: false
-  reddit: false
+  reddit: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "happybirthdaymax.love"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,17 +137,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#FFE8F1"          # soft pastel pink background
+text-col: "#1A1A1A"          # deep black/near-black text for clean readability
+link-col: "#FF8EC7"          # cute brighter pink for links
+hover-col: "#FF75BD"         # slightly deeper pink for link hover
+navbar-col: "#FFD3E6"        # light pink navbar
+navbar-text-col: "#1A1A1A"   # black navbar text
+navbar-border-col: "#F5BFD6" # soft medium pink border
+
+footer-col: "#FFD3E6"        # matching navbar pink for consistency
+footer-text-col: "#1A1A1A"   # black footer text
+footer-link-col: "#FF8EC7"   # same pink link color as above
+footer-hover-col: "#FF75BD"  # darker hover pink
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -260,7 +262,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
