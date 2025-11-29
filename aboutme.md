@@ -24,4 +24,4 @@ I’m still trying to learn more about you, but here’s what I’ve figured out
 
 ### Best Thing About You
 
-To be honest idek what I’d even pick. And yes, I did in fact add a whole section just to say “I don’t know.” I think it’s more like… all your traits tie together in a way that just works. A whole little bundle of chaos and charm.
+To be honest idek what I’d pick, and yeah, I realize I’m basically shooting myself in the foot by adding this part just to admit I don’t know. It’s just that, for me, it’s more like a whole mix of things where everything about you ties together in a way that makes sense.
