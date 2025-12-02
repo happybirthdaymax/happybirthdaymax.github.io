@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Birthday Baby
-subtitle: Mwah Mwah Mwah Mwah
+subtitle: Mwah Mwah Mwah Mwah Mwah
 gh-badge: [star, fork, follow]
 tags: [happy, max, baby, proud, little]
 comments: false
