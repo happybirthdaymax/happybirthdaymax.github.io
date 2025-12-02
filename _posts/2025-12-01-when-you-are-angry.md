@@ -7,7 +7,7 @@ comments: false
 mathjax: true
 author: Atom
 ---
-Hey babe, if you’re reading this right now, you’re probably pissed off, annoyed, or just done with everything, so let me just talk to you for a second. First of all, breathe. Seriously. Just breathe for a moment. You don’t have to pretend you’re okay right now. You’re allowed to be mad. You’re allowed to feel things without having to hide it behind that “I don’t care” attitude you love to do. I know you care. I know things get to you. And that’s alright.
+Hey babe, if you’re reading this right now, you’re probably pissed off, annoyed, or just done with everything, so let me just talk to you for a second. First of all, breathe... Just breathe for a moment. You don’t have to pretend you’re okay right now. You’re allowed to be mad. You’re allowed to feel things without having to hide it behind that “I don’t care” attitude you love to do. I know you care. I know things get to you. And that’s alright.
 
 Whatever got you angry, whether it was someone being stupid, something not going your way, or life just throwing some random bullshit at you, you don’t have to deal with it alone. I know that when you’re mad, your mind starts racing and everything feels louder and heavier than it is. And I know you’re probably not in the mood to hear some motivational speech or anything like that, so I’m not giving you one. I just want you to know that you can take your time. You can step back. You can cool down at your own pace. It’s not a race to get over it.
 
