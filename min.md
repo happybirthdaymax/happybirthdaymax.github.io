@@ -1,1 +1,6 @@
+---
+layout: page
+title: From Min
+subtitle: Min's Message to You
+---
 Happy birthday max your finally old as fuck and half 36👉🏿👈🏻 ik we haven’t spoken as much so ngl idk what to put plus this year has gone WAY too fast im still like wtf slow down but yea. It’s been six?? years… okay wtf that’s long but yea er glad your taking care of yourself and eating but girl fix this sleep schedule cuz it’s like afternoon when you wake up. Anyway you’re gonna start driving soon… (I can teach ya💅) er and getting a job and stuff… im deeping it ew your old old.. anygays take care of yourself. Don’t beat yourself too hard on studying and take breaks. And enjoy your birthday if you can as much as you can. Mwah mwah mwah mwah mwah mwah
